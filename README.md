@@ -14,4 +14,4 @@ But, i remake for my learning purpose
 7. Deploy with 'now'
 
 ## Demo
-Live Site Demo :  [Link](https://build-mvosqrvkfm.now.sh)
+Live Site Demo :  [Link](https://build-sunofkcsiq.now.sh)
